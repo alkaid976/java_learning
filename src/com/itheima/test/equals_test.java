@@ -8,5 +8,6 @@ public class equals_test {
 
         System.out.println("id1.equals(id2)" + id1.equals(id2));
         System.out.println("id2.equals(id3)" + id2.equals(id3));
+        System.out.println("我现在更改了一些内容");
     }
 }
